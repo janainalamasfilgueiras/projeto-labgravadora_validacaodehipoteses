@@ -1,6 +1,6 @@
 # Caso projeto cliente Gravadora Laboratória
 
-Ficha Técnica
+Ficha Técnica https://www.notion.so/janainalamas/Caso-projeto-cliente-Gravadora-Laborat-ria-1d38a822de888012940df1803cf2b039
 
 # Ficha Técnica
 
